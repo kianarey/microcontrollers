@@ -35,5 +35,5 @@ The goal of this lab is to connect the PIC24 to a LCD and display the message â€
 
 Serial interfaces are commonly used in industry today. They allow for low pin count communication between integrated circuits (ICs), like the PIC24 and an LCD.  Without a serial interface, LCDs typically require 10+ pins to operate. 
 
-### Lab 6 - Analog to Digital Converter (ADC) Interacing with LCD
+### Lab 6 - Analog to Digital Converter (ADC) Interfacing with LCD
 In this lab, a digital voltmeter is developed, reading the voltage of an analog source over time, placing the values in a circular buffer, and showing the most recent value on an LCD. Input is read from a potentiometer as an analog source.
